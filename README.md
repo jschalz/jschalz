@@ -12,6 +12,5 @@
   - quantum computing
 
 📫 **Where to find me:**
-  - Twitter: [@jessica_schalz](https://twitter.com/jessica_schalz)
   - Polywork: [@grem](https://www.polywork.com/grem)
   - Medium: [@grem](https://grem.medium.com/)
