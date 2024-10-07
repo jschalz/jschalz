@@ -6,11 +6,7 @@
 
 🧠 **Interests:**
   - dev education
-  - Python
   - security 
-  - backend dev
-  - quantum computing
 
 📫 **Where to find me:**
-  - Polywork: [@grem](https://www.polywork.com/grem)
   - Medium: [@grem](https://grem.medium.com/)
